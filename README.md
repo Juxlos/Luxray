@@ -1,0 +1,2 @@
+# Luxray
+No Mega Luxray
